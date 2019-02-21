@@ -3,7 +3,9 @@
 /*
 *
 	This is test code just for messing with Github and
-	downloading programs from the Wallaby.
+	downloading programs from the Wallaby. All it does it 
+	run a for loop that counts from 0 to ten and prints
+	the iteration it is in plus 1.
 *
 */
 
